@@ -3,7 +3,9 @@
 ## Junior Frontend Developer ##
 
 ### Contact information: ###
+
 **Phone:**
+
 **E-mail: fedjesimmortal@gmail.com**
 
 **Briefly About Myself:**
@@ -24,4 +26,4 @@
 
 **Languages:**
 * Russian
-* English a1
+* English
