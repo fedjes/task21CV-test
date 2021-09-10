@@ -1,4 +1,4 @@
-[rsschool-cv](https://fedjes.github.io/rsschool-cv/cv)
+
 # Alex Kat #
 ## Junior Frontend Developer ##
 
